@@ -1,0 +1,12 @@
+{
+  "name": "test-node",
+  "version": "1.0.0",
+  "main": "hello.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon hello.js"
+  },
+  "dependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
