@@ -1,0 +1,61 @@
+20230105	18:55:14	e1ce3421-0cd5-4188-afc4-ad45b3833d2b	SyntaxError: Unexpected token  in JSON at position 117
+20230105	21:06:27	e2b930d5-7aa9-40f3-a202-f670cd3c451b	TypeError: Cannot read properties of undefined (reading 'id')
+20230105	21:09:25	73ec19bc-b29a-4dfe-89ae-1524ac39a292	TypeError: Cannot read properties of undefined (reading 'id')
+20230105	21:11:04	08bd1c66-db3f-4511-811d-601566842a5e	TypeError: Cannot read properties of undefined (reading 'id')
+20230105	21:13:36	e9196a47-a2fa-4033-9415-31b2e983754b	TypeError: Cannot read properties of undefined (reading 'id')
+20230110	19:31:53	55b1cb17-0ef4-4758-976a-0378fa367d9a	Error: Not allowed by CORS
+20230110	19:31:53	a4769ae4-7a09-4861-b90f-3d96a5c4e071	Error: Not allowed by CORS
+20230110	19:32:20	ef8ea92e-c811-4f72-80ee-366c075cb091	Error: Not allowed by CORS
+20230110	19:32:20	a5f552c0-74cf-434b-9785-07b73b1ce6bb	Error: Not allowed by CORS
+20230110	19:32:57	24925b18-4ac2-4b86-b1e8-1081b65c5395	Error: Not allowed by CORS
+20230110	19:32:57	ed32dbd3-46ad-4e17-a277-cf3b79192ee2	Error: Not allowed by CORS
+20230110	19:32:58	8333d630-536b-4c18-9551-b3d78ba43796	Error: Not allowed by CORS
+20230110	19:32:58	c477b937-af9f-4ebd-8898-2a3cadd2b461	Error: Not allowed by CORS
+20230110	19:34:27	aa1e871c-dd6e-4a0a-84c0-e6449c67d44e	Error: Not allowed by CORS
+20230110	19:34:27	15eb90b7-db8f-4010-8097-e3e2a84529b7	Error: Not allowed by CORS
+20230110	19:34:28	7a2f50b2-0a21-4d8e-b66d-618548f9e747	Error: Not allowed by CORS
+20230110	19:34:28	1691c733-44c7-4677-80ba-d8edaf57ffff	Error: Not allowed by CORS
+20230110	19:34:28	4364bef9-3d0f-4f2f-8fcd-900dcc8b1302	Error: Not allowed by CORS
+20230110	19:34:28	d7ff3e6a-b6a3-4898-9c66-6501bfebb779	Error: Not allowed by CORS
+20230110	19:34:28	d1d34ff6-7171-4b4f-9fe4-f0ebc22923f7	Error: Not allowed by CORS
+20230110	19:34:28	bec5a6db-107c-4ede-aec0-270797d3bad1	Error: Not allowed by CORS
+20230110	19:34:28	3be00d81-415d-4c70-96ed-b41d62d5adc6	Error: Not allowed by CORS
+20230110	19:34:28	4828313f-44ad-405d-926c-75103ac6999f	Error: Not allowed by CORS
+20230110	19:34:28	434c1835-ba21-4ed6-ac71-7c953f3b57cc	Error: Not allowed by CORS
+20230110	19:34:28	e0a424e7-48ac-4152-bd8d-f951c54ce4e2	Error: Not allowed by CORS
+20230110	19:34:29	cab60d53-47f8-405c-85c3-f8565ab81224	Error: Not allowed by CORS
+20230110	19:34:29	49e906cd-1f1b-4b67-ae8f-f53fcedf6bf3	Error: Not allowed by CORS
+20230110	19:34:29	45f1def9-4fc5-48c5-9028-337ad5de8d54	Error: Not allowed by CORS
+20230110	19:34:29	6626778a-76c6-4c4b-8072-8515b6c20f5f	Error: Not allowed by CORS
+20230110	19:34:29	8bfd05eb-e87b-43bf-80c2-094f8d647734	Error: Not allowed by CORS
+20230110	19:34:29	0ec59388-a1bd-4ed8-9f59-e68afa079dfc	Error: Not allowed by CORS
+20230110	19:34:29	33beff25-9dd9-47b2-961d-117ecac4cca2	Error: Not allowed by CORS
+20230110	19:34:29	5878afeb-a932-4867-b649-5a2a29486f55	Error: Not allowed by CORS
+20230110	19:44:21	3b39c2cb-78cd-4edc-aa52-22c3a28b55e9	Error: Not allowed by CORS
+20230110	19:52:07	ebb1650c-0787-452b-abd0-6e91fe1a0f2a	Error: Not allowed by CORS
+20230110	19:53:39	c52c9b27-4a32-4c5d-9273-774ed43e4b32	Error: Not allowed by CORS
+20230110	19:54:38	b689f447-2cb1-4afb-b6a8-f3aae0558a24	Error: Not allowed by CORS
+20230110	19:59:22	b68bfa3e-2139-42d4-b5db-c27ca4d4b74b	Error: Not allowed by CORS
+20230110	19:59:24	d2577b34-4dd5-446d-a049-85becb81bf64	Error: Not allowed by CORS
+20230110	19:59:26	e6eb13e9-c60a-4a93-adda-9bba9526ac17	Error: Not allowed by CORS
+20230110	23:52:59	c843cfdc-011c-4703-a293-878bd55c2747	SyntaxError: Unexpected token } in JSON at position 323
+20230111	00:09:45	6d99b283-a6cd-4300-b11e-8b9a1b07fdfa	SyntaxError: Unexpected token } in JSON at position 374
+20230111	13:35:12	f7077072-af72-4f8e-9ec1-b63be666d518	Error: Not allowed by CORS
+20230111	13:35:12	d0028f8c-4bdc-45b0-9de9-f8a4eb3af50b	Error: Not allowed by CORS
+20231109	20:41:44	f971870e-d76d-4f50-a17b-33c13c96abec	Error: ENOENT: no such file or directory, stat 'C:\Users\laule\Desktop\code\projects\test-api\views\index.html'
+20231109	20:42:27	52810f6d-057e-4516-82ca-232ee8323370	Error: ENOENT: no such file or directory, stat 'C:\Users\laule\Desktop\code\projects\test-api\views\index.html'
+20231109	20:42:38	e0c336ed-9c2d-4d59-8238-8b5854058c2c	Error: ENOENT: no such file or directory, stat 'C:\Users\laule\Desktop\code\projects\test-api\views\index.html'
+20231109	20:43:41	8606434f-1863-4064-b860-9ba663039f04	Error: ENOENT: no such file or directory, stat 'C:\Users\laule\Desktop\code\projects\test-api\views\index.html'
+20231109	20:43:42	18176edd-8dde-4358-a22e-477d370b9655	Error: ENOENT: no such file or directory, stat 'C:\Users\laule\Desktop\code\projects\test-api\views\index.html'
+20231109	20:43:52	80d64d0e-fd36-4ac8-a0c2-16385baaa344	Error: ENOENT: no such file or directory, stat 'C:\Users\laule\Desktop\code\projects\test-api\public\index.html'
+20231109	20:44:17	f9416092-6c9a-4f0e-ba20-12c378827153	Error: ENOENT: no such file or directory, stat 'C:\Users\laule\Desktop\code\projects\test-api\public\index.html'
+20231109	20:44:24	15a5f6be-0234-45ea-bc07-b6dc40f566cb	Error: ENOENT: no such file or directory, stat 'C:\Users\laule\Desktop\code\projects\test-api\public\404.html'
+20231109	20:45:26	97b927f7-ee7d-4edd-b269-0f0a8db4178f	Error: ENOENT: no such file or directory, stat 'C:\Users\laule\Desktop\code\projects\test-api\public\404.html'
+20231109	20:45:49	c151eccc-b757-4a99-be4a-24a7c6a12c86	Error: ENOENT: no such file or directory, stat 'C:\Users\laule\Desktop\code\projects\test-api\public\404.html'
+20231109	20:46:19	bc7e8288-2c7c-483c-a156-59fa7936320a	Error: ENOENT: no such file or directory, stat 'C:\Users\laule\Desktop\code\projects\test-api\public\404.html'
+20231109	20:46:19	2e39138e-e363-4085-aaed-3980347bfc60	Error: ENOENT: no such file or directory, stat 'C:\Users\laule\Desktop\code\projects\test-api\public\404.html'
+20231109	20:46:33	4a5c06c0-bf3e-4f42-913b-da23e662bf0e	Error: ENOENT: no such file or directory, stat 'C:\Users\laule\Desktop\code\projects\test-api\public\404.html'
+20231109	23:40:08	93ab16c9-64b8-4c29-8d43-2f2097d61b20	Error: Not allowed by CORS
+20231109	23:40:08	2d6f0ce8-2363-48bb-955b-647e126bec47	Error: Not allowed by CORS
+20231109	23:40:27	29c895b0-ec79-4ea3-bb4b-fa4d17dd1ab6	Error: Not allowed by CORS
+20231109	23:40:27	7d32e77d-32bd-41de-a154-1fb718f9267d	Error: Not allowed by CORS

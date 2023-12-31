@@ -1,0 +1,262 @@
+[
+  {
+    "stats": {
+      "atk": 1,
+      "def": 0,
+      "hp": 2
+    },
+    "_id": "63be40bb6acbac4388dede1a",
+    "id": 1,
+    "description": "The underling of underlings. No other distinguishing characteristics.",
+    "image": "https://static.wikia.nocookie.net/papermario/images/1/1f/180px-PMTTYD_Tattle_Log_-_Goomba.png/revision/latest?cb=20171215010923",
+    "name": "Goomba",
+    "__v": 0
+  },
+  {
+    "stats": {
+      "atk": 1,
+      "def": 0,
+      "hp": 2
+    },
+    "_id": "63be40dc6acbac4388dede1d",
+    "id": 2,
+    "description": "Goomba with wings. Can't reach it with a hammer while it's in the air, but once it's damaged, its wings get clipped. It's kind of sad really.",
+    "image": "https://static.wikia.nocookie.net/papermario/images/d/d9/180px-PMTTYD_Tattle_Log_-_Paragoomba.png/revision/latest?cb=20171214023412",
+    "name": "Paragoomba",
+    "__v": 0
+  },
+  {
+    "stats": {
+      "atk": 2,
+      "def": 0,
+      "hp": 2
+    },
+    "_id": "63be35a89bf299114b76adf3",
+    "id": 3,
+    "description": "A Goomba that wears a spiked helmet. Slighty higher attack power than a typical Goomba.",
+    "image": "https://static.wikia.nocookie.net/papermario/images/6/6d/180px-PMTTYD_Tattle_Log_-_Spiky_Goomba.png/revision/latest?cb=20171214023540",
+    "name": "Spiked Goomba",
+    "__v": 0
+  },
+  {
+    "stats": {
+      "atk": 2,
+      "def": 0,
+      "hp": 8
+    },
+    "_id": "63be36489bf299114b76adf5",
+    "id": 4,
+    "description": "When this hyperactive Goomba charges up, its Attack rises to eight, so watch yourself!",
+    "image": "https://static.wikia.nocookie.net/papermario/images/9/9b/180px-PMTTYD_Tattle_Log_-_Hyper_Goomba.png/revision/latest?cb=20171214023600",
+    "name": "Hyper Goomba",
+    "__v": 0
+  },
+  {
+    "stats": {
+      "atk": 2,
+      "def": 0,
+      "hp": 8
+    },
+    "_id": "63be3b979bf299114b76adf7",
+    "id": 5,
+    "description": "When this winged Hyper Goomba charges up, its attack power rises to 8.",
+    "image": "https://static.wikia.nocookie.net/papermario/images/0/07/180px-PMTTYD_Tattle_Log_-_Hyper_Paragoomba.png/revision/latest?cb=20171214023642",
+    "name": "Hyper Paragoomba",
+    "__v": 0
+  },
+  {
+    "stats": {
+      "atk": 3,
+      "def": 0,
+      "hp": 8
+    },
+    "_id": "63be3bd19bf299114b76adf9",
+    "id": 6,
+    "description": "When this hyperactive spike-headed Hyper Goomba charges up, its Attack rises to nine, so heads up!",
+    "image": "https://static.wikia.nocookie.net/papermario/images/1/1d/180px-PMTTYD_Tattle_Log_-_Hyper_Spiky_Goomba.png/revision/latest?cb=20171214023857",
+    "name": "Hyper Spiky Goomba",
+    "__v": 0
+  },
+  {
+    "stats": {
+      "atk": 3,
+      "def": 0,
+      "hp": 7
+    },
+    "_id": "63be3cb39bf299114b76adfd",
+    "id": 7,
+    "description": "A Goomba that likes dark, damp places. It must look like that because it lives below ground.",
+    "image": "https://static.wikia.nocookie.net/papermario/images/6/6a/180px-PMTTYD_Tattle_Log_-_Gloomba.png/revision/latest?cb=20171214024015",
+    "name": "Gloomba",
+    "__v": 0
+  },
+  {
+    "stats": {
+      "atk": 3,
+      "def": 0,
+      "hp": 7
+    },
+    "_id": "63be3cdc9bf299114b76adff",
+    "id": 8,
+    "description": "A Gloomba with wings that may or may not get moldy.",
+    "image": "https://static.wikia.nocookie.net/papermario/images/6/6b/180px-PMTTYD_Tattle_Log_-_Paragloomba.png/revision/latest?cb=20171214024044",
+    "name": "Paragloomba",
+    "__v": 0
+  },
+  {
+    "stats": {
+      "atk": 4,
+      "def": 0,
+      "hp": 7
+    },
+    "_id": "63be3cf59bf299114b76ae01",
+    "id": 9,
+    "description": "A Gloomba with a painful-looking spike that likes damp places.",
+    "image": "https://static.wikia.nocookie.net/papermario/images/1/11/180px-PMTTYD_Tattle_Log_-_Spiky_Gloomba.png/revision/latest?cb=20171214024105",
+    "name": "Spiky Gloomba",
+    "__v": 0
+  },
+  {
+    "stats": {
+      "atk": 2,
+      "def": 1,
+      "hp": 4
+    },
+    "_id": "63be3d199bf299114b76ae03",
+    "id": 10,
+    "description": "Koopa Troopas have been around forever. Jump on them to flip them over and drop their defense to 0.",
+    "image": "https://static.wikia.nocookie.net/papermario/images/9/9d/180px-PMTTYD_Tattle_Log_-_Koopa_Troopa.png/revision/latest?cb=20171214024126",
+    "name": "Koopa Troopa",
+    "__v": 0
+  },
+  {
+    "stats": {
+      "atk": 2,
+      "def": 1,
+      "hp": 4
+    },
+    "_id": "63be3d4d9bf299114b76ae05",
+    "id": 11,
+    "description": "A Koopa Troopa with wings that stays airborne until you stomp on it and send it plunging to the ground.",
+    "image": "https://static.wikia.nocookie.net/papermario/images/1/19/180px-PMTTYD_Tattle_Log_-_Paratroopa.png/revision/latest?cb=20171214024157",
+    "name": "Paratroopa",
+    "__v": 0
+  },
+  {
+    "stats": {
+      "atk": 2,
+      "def": 1,
+      "hp": 4
+    },
+    "_id": "63be3ee921afa1660c89d919",
+    "id": 12,
+    "description": "A Koopa warrior that battles at the Glitz Pit in Glitzville. It may be a different color than your average Koopa, but its abilities are the same.",
+    "image": "https://static.wikia.nocookie.net/papermario/images/6/67/180px-PMTTYD_Tattle_Log_-_KP_Koopa.png/revision/latest?cb=20171214024215",
+    "name": "KP Koopa",
+    "__v": 0
+  },
+  {
+    "stats": {
+      "atk": 2,
+      "def": 1,
+      "hp": 4
+    },
+    "_id": "63be3eff21afa1660c89d91c",
+    "id": 13,
+    "description": "A Koopa Paratroopa who's dyed its shell. Otherwise, it's the same as any other Paratroopa, which means one stomp and it loses its wings.",
+    "image": "https://static.wikia.nocookie.net/papermario/images/f/f4/180px-PMTTYD_Tattle_Log_-_KP_Paratroopa.png/revision/latest?cb=20171214024236",
+    "name": "KP Paratroopa",
+    "__v": 0
+  },
+  {
+    "stats": {
+      "atk": 3,
+      "def": 1,
+      "hp": 8
+    },
+    "_id": "63be3f1d21afa1660c89d91f",
+    "id": 14,
+    "description": "When a Shady Koopa flips back up from its back, it attack increases. Shady Koopas have a place of honor in the Koopa family tree because of this distinction.",
+    "image": "https://static.wikia.nocookie.net/papermario/images/8/87/180px-PMTTYD_Tattle_Log_-_Shady_Koopa.png/revision/latest?cb=20171214024343",
+    "name": "Shady Koopa",
+    "__v": 0
+  },
+  {
+    "stats": {
+      "atk": 3,
+      "def": 1,
+      "hp": 8
+    },
+    "_id": "63be3f3a21afa1660c89d922",
+    "id": 15,
+    "description": "Other than having wings, this creature isn't very different from a Shady Koopa. Once it flips off its back, it boosts its attack.",
+    "image": "https://static.wikia.nocookie.net/papermario/images/1/18/180px-PMTTYD_Tattle_Log_-_Shady_Paratroopa.png/revision/latest?cb=20171214024356",
+    "name": "Shady Paratroopa",
+    "__v": 0
+  },
+  {
+    "stats": {
+      "atk": 4,
+      "def": 2,
+      "hp": 8
+    },
+    "_id": "63be3f4f21afa1660c89d925",
+    "id": 16,
+    "description": "A Koopa that prefers dark places. It has a very hard shell but you can flip it by jumping on it.",
+    "image": "https://static.wikia.nocookie.net/papermario/images/1/18/180px-PMTTYD_Tattle_Log_-_Shady_Paratroopa.png/revision/latest?cb=20171214024356",
+    "name": "Dark Koopa",
+    "__v": 0
+  },
+  {
+    "stats": {
+      "atk": 4,
+      "def": 2,
+      "hp": 8
+    },
+    "_id": "63be3f6a21afa1660c89d928",
+    "id": 17,
+    "description": "A Paratroopa that lives in dark, damp places. In has a very hard shell, but you can flip it over by jumping on it.",
+    "image": "https://static.wikia.nocookie.net/papermario/images/c/cf/180px-PMTTYD_Tattle_Log_-_Dark_Paratroopa.png/revision/latest?cb=20171214024444",
+    "name": "Dark Paratroopa",
+    "__v": 0
+  },
+  {
+    "stats": {
+      "atk": 4,
+      "def": 2,
+      "hp": 6
+    },
+    "_id": "63be3f8821afa1660c89d92b",
+    "id": 18,
+    "description": "Occasionally uses an attack called Charge that saves up energy, and can call in backup for support if you don't defeat it quickly.",
+    "image": "https://static.wikia.nocookie.net/papermario/images/e/e6/180px-PMTTYD_Tattle_Log_-_Koopatrol.png/revision/latest?cb=20171214024503",
+    "name": "Koopatrol",
+    "__v": 0
+  },
+  {
+    "stats": {
+      "atk": 5,
+      "def": 2,
+      "hp": 25
+    },
+    "_id": "63be3fa121afa1660c89d92e",
+    "id": 19,
+    "description": "A member of the elite forces of the Koopa clan. Its pair of red eyes is its most charming feature. After charging its attacks, it deals devastating blows, so watch yourself!",
+    "image": "https://static.wikia.nocookie.net/papermario/images/a/ab/180px-PMTTYD_Tattle_Log_-_Dark_Koopatrol.png/revision/latest?cb=20171214024521",
+    "name": "Dark Koopatrol",
+    "__v": 0
+  },
+  {
+    "stats": {
+      "atk": 2,
+      "def": 1,
+      "hp": 1
+    },
+    "_id": "63be449e4d2a4b3b58b4a7e7",
+    "id": 20,
+    "description": "A Koopa Troopa that became a skeleton. It throws bones to attack and builds buddies to help it fight.",
+    "image": "https://static.wikia.nocookie.net/papermario/images/2/24/180px-PMTTYD_Tattle_Log_-_Dull_Bones.png/revision/latest?cb=20171214024537",
+    "name": "Dull Bones",
+    "__v": 0
+  }
+]

@@ -1,0 +1,20 @@
+// cross origin resource sharing (requesting backend from outside of localhost:8000, blocked by default)
+
+const whitelist = [
+    'https://www.google.com',
+    'http://127.0.0.1:5500/',
+    'http://localhost:8000' 
+];
+
+const corsOptions = {
+    origin: (origin, callback) => {
+       if (whitelist.indexOf(origin) !== -1 || !origin) {
+        callback(null, true)
+       } else {
+        callback(new Error('Not allowed by CORS'));
+       }
+    },
+    optionsSuccessStatus: 200
+}
+
+module.exports = corsOptions;
